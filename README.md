@@ -25,10 +25,11 @@ password_generator_dashboard
 - nltk (Natural Language Toolkit)
 - Steamlit
 
-To install nltk use pip:
+Install the dependencies:
 ```bash
-pip install nltk
+pip install requirements.txt
 ```
+
 after installing nltk you need to download 'Words' corpus. Run Python and type these commands:
 ```python
 import nltk
