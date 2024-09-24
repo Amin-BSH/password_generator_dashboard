@@ -27,7 +27,7 @@ password_generator_dashboard
 
 Install the dependencies:
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 after installing nltk you need to download 'Words' corpus. Run Python and type these commands:
